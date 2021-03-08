@@ -50,7 +50,7 @@ h2 {
 
 @media (min-width: 768px) {
     .barra {
-        height: ;
+        
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -248,10 +248,7 @@ h2 {
     }
      
 }
-.slider {
-    /* border: aqua solid; */
-    /* text-align: center; */
-}
+
 .slider img {
     /* width: auto; */
     display: block;
@@ -323,9 +320,7 @@ h2 {
 
 /* Get Product Info */
 
-.newsletter {
-   
-}
+
 .newsletter p {
     font-family: 'Poppins', sans-serif;
     font-size: 1.4rem;
@@ -402,10 +397,7 @@ h2 {
         text-align: center;
         /* border: solid #EEE; */
     }
-    .footer-nav {
-        /* border: olivedrab solid; */
-        /* display: flex; */   
-    }
+    
     .footer-nav a {
         text-decoration: none;
         font-family: 'Poppins', sans-serif;
